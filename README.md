@@ -1,6 +1,6 @@
 # Python_Project_Airbnb
 
-# **Airbnb Clone - Django REST Framework Backend
+# **Airbnb Clone - Django REST Framework Backend**
 
 A complete Airbnb-like booking platform backend built with Django, Django REST Framework, and MySQL.
 
